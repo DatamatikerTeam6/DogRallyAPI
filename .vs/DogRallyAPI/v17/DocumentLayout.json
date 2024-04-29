@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\data\\dograllycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:data\\dograllycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\views\\tracks\\createtrack.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\services\\getexercisesfromapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\services\\igetexercisesfromapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\models\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\services\\posttracktoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\services\\iposttracktoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\views\\tracks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogRallyContext/True/SqlTable/dbo.Exercise.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\models\\trackexerciseviewmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\trackexerciseviewmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\trackexerciseviewmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\trackexerciseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\trackexerciseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\trackexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\trackexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\trackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\trackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|c:\\users\\almaj\\desktop\\dograllyapi\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9DD1A-967A-42BC-AABA-250FCFBF2AD1}|DogRallyAPI.csproj|solutionrelative:models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B5B7E-B20B-4803-ABDD-564D142500F7}|..\\DogRallyMVC\\DogRallyMVC.csproj|c:\\users\\almaj\\desktop\\dograllymvc\\models\\trackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostTrackToAPI.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\PostTrackToAPI.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Services\\PostTrackToAPI.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\PostTrackToAPI.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Services\\PostTrackToAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-04-25T11:37:24.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTrack.cshtml",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Tracks\\CreateTrack.cshtml",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Views\\Tracks\\CreateTrack.cshtml",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Tracks\\CreateTrack.cshtml",
+              "RelativeToolTip": "..\\DogRallyMVC\\Views\\Tracks\\CreateTrack.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-04-24T11:15:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPostTrackToAPI.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\IPostTrackToAPI.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Services\\IPostTrackToAPI.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\IPostTrackToAPI.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Services\\IPostTrackToAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:44:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Controllers\\TracksController.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Controllers\\TracksController.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Controllers\\TracksController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-04-24T11:37:08.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Program.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:08:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExerciseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\ExerciseDTO.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Models\\ExerciseDTO.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\ExerciseDTO.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Models\\ExerciseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:17:52.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TracksController.cs",
+              "ToolTip": "Controllers/TracksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Controllers",
+              "OverriddenToolTip": "Controllers/TracksController.cs",
+              "WhenOpened": "2024-04-24T10:42:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "WhenOpened": "2024-04-24T08:43:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DogRallyContext.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Data\\DogRallyContext.cs",
+              "RelativeDocumentMoniker": "Data\\DogRallyContext.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Data\\DogRallyContext.cs",
+              "RelativeToolTip": "Data\\DogRallyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:23:27.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T12:00:23.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\DogRallyMVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T12:11:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:20:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetExercisesFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\GetExercisesFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Services\\GetExercisesFromAPI.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\GetExercisesFromAPI.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Services\\GetExercisesFromAPI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:56:10.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGetExercisesFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\IGetExercisesFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Services\\IGetExercisesFromAPI.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Services\\IGetExercisesFromAPI.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Services\\IGetExercisesFromAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:02:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:14:45.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:36:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Tracks\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Views\\Tracks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Tracks\\Index.cshtml",
+              "RelativeToolTip": "..\\DogRallyMVC\\Views\\Tracks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T12:04:36.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "Models\\Exercise.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\Exercise.cs",
+              "RelativeToolTip": "Models\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:13:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExerciseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\ExerciseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ExerciseDTO.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\ExerciseDTO.cs",
+              "RelativeToolTip": "Models\\ExerciseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:03:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\DogRallyMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T11:23:44.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\DogRallyMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T11:23:45.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T10:34:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\DogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:33:59.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:21:39.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Exercise [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogRallyContext/True/SqlTable/dbo.Exercise.sql",
+              "ToolTip": "dbo.Exercise [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-29T10:35:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrackExerciseViewModelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\TrackExerciseViewModelDTO.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Models\\TrackExerciseViewModelDTO.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\TrackExerciseViewModelDTO.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Models\\TrackExerciseViewModelDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:17:50.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\DogRallyMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T12:15:20.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\appsettings.json",
+              "RelativeToolTip": "..\\DogRallyMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T12:15:20.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TrackExerciseViewModelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackExerciseViewModelDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TrackExerciseViewModelDTO.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackExerciseViewModelDTO.cs",
+              "RelativeToolTip": "Models\\TrackExerciseViewModelDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:03:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TrackExerciseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackExerciseViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TrackExerciseViewModel.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackExerciseViewModel.cs",
+              "RelativeToolTip": "Models\\TrackExerciseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:14:24.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrackExercise.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackExercise.cs",
+              "RelativeDocumentMoniker": "Models\\TrackExercise.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackExercise.cs",
+              "RelativeToolTip": "Models\\TrackExercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:13:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TrackDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TrackDTO.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\TrackDTO.cs",
+              "RelativeToolTip": "Models\\TrackDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:03:19.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Track.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\Track.cs",
+              "RelativeDocumentMoniker": "Models\\Track.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyAPI\\Models\\Track.cs",
+              "RelativeToolTip": "Models\\Track.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:12:59.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TrackDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\TrackDTO.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVC\\Models\\TrackDTO.cs",
+              "ToolTip": "C:\\Users\\almaj\\Desktop\\DogRallyMVC\\Models\\TrackDTO.cs",
+              "RelativeToolTip": "..\\DogRallyMVC\\Models\\TrackDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:17:48.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
