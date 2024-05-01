@@ -19,11 +19,11 @@ namespace DogRallyAPI.Models
         public string ExerciseIllustrationPath { get; set; }
 
         [JsonPropertyName ("exercisePositionX")]
-        [Required]
+      
         public string ExercisePositionX { get; set; }
 
         [JsonPropertyName("exercisePositionY")]
-        [Required]
+      
         public string ExercisePositionY { get; set; }
     }
 }

@@ -26,11 +26,12 @@ namespace DogRallyAPI.Controllers
             {
                 var track = new Track
                 {
+                    TrackID = viewModel.Track.TrackID,
                     TrackName = viewModel.Track.TrackName,
                     TrackDate = viewModel.Track.TrackDate
                 };
                 _context.Tracks.Add(track);
-                await _context.SaveChangesAsync(); // Create the track to acces its ID
+                await _context.SaveChangesAsync(); // Create the track to access its ID
 
                 foreach (var exerciseInViewModel in viewModel.Exercises)
                 {
@@ -44,15 +45,16 @@ namespace DogRallyAPI.Controllers
                             ExerciseID = exerciseInViewModel.ExerciseID,
                             TrackExercisePositionX = double.Parse(exerciseInViewModel.ExercisePositionX),
                             TrackExercisePositionY = double.Parse(exerciseInViewModel.ExercisePositionY),
+                            TrackExerciseIllustrationPath = exerciseInViewModel.ExerciseIllustrationPath
                         };
                         //Add trackExercise to database
                         _context.Add(trackExercise);
                     }
                 }
                 await _context.SaveChangesAsync();
-                return BadRequest(ModelState);
+                return Ok();
             }
-            return Ok();
+            return BadRequest(ModelState);
         }
 
         [HttpGet("ReadExercises")]

@@ -2,6 +2,9 @@ using DogRallyAPI.Data;
 using DogRallyAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
+
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DogRallyContext>(options => options
@@ -18,17 +21,15 @@ builder.Services.AddSwaggerGen();
 // Add cors
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy(name: "MyAllowSpecificOrigins",
+    options.AddPolicy(name: MyAllowSpecificOrigins,
         policy =>
         {
             policy
-            .AllowAnyOrigin()
             .WithOrigins("http://localhost:5269",
                         "https://localhost:7063")
-            .AllowAnyMethod()
             .AllowAnyHeader()
+            .AllowAnyMethod()
             .AllowCredentials();
-
         });
 });
 
@@ -49,6 +50,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(MyAllowSpecificOrigins);
 
 app.UseAuthorization();
 
